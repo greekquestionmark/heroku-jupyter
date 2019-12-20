@@ -3,6 +3,6 @@ dependencies:
   - requests
   - notebook
   - ipywidgets
-  - pip:
+  - pip3:
     - git+git://github.com/pl31/pgcontents.git
     - jupyter_contrib_nbextensions
